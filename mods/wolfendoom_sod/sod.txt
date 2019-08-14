@@ -1,0 +1,57 @@
+
+Title: Spear of Destiny
+Filename: SOD.WAD
+Author: Laz Rojas
+Email Address: filmman@pacificnet.net, wolfdoom@aol.com
+Misc. Author Info: web site at
+http://www.doomworld.com/wolfendoom.shtml
+Description: Faithful recreation of the Wolfenstein 3D
+sequel Spear of Destiny, with improved graphics and ambient
+sounds. Created on a Macintosh.
+Additional Credits to: The guys at id, for creating both
+Doom and Wolfenstein.  Also Joel Murdoch, for beta testing
+the levels and coding the special engine.
+
+Files included:
+
+SOD.WAD -- maps, sprites, textures, flats, and sounds
+SOD.EXE -- game engine
+SOD.DEH -- patch file
+
+============================================================
+
+*Play Information*
+
+Game: Doom II
+Level #: MAP01-MAP21
+Single Player: Yes
+Cooperative 2-4 Player: No
+Deathmatch 2-4 Player: No
+Difficulty Settings: Not at this time.
+New Sounds: Yes
+New Graphics: Yes
+New Music: No
+Demos Replaced: None
+
+*Construction*
+
+Base: New level from scratch
+Build Time: About six months, on and off
+Editor(s) Used: HellMaker, Demon, Deimos, MacBSP, NWT Pro 
+Known Bugs: None 
+
+*Copyright/Permissions*
+
+Authors may not use this level as a base to build
+additional levels.
+
+You may distribute this WAD as long as this read me is
+included.
+
+*Where to get this WAD*
+
+FTP Sites: ftp.cdrom.com
+BBS Numbers:
+Other: http://www.doomworld.com/wolfendoom.shtml
+
+===========================================================

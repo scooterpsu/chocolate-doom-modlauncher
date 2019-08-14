@@ -1,0 +1,47 @@
+Title: WolfenDOOM: Spear of Destiny v1.0
+Date: 30/11/1998
+Note: This document is best viewed in DOS Editor (EDIT.COM)
+
+This is the first release of the engine for Spear of Destiny by Laz Rojas. It
+is based on the Boom engine by TeamTNT. If you do not already have it, I
+recommend you download it by visiting http://www.teamtnt.com. The archive
+includes documentation and support utilities which, while not necessary, can
+be useful in some cases.
+
+Here is the list of features:
+
+- SOD.WAD and SOD.DEH are loaded automatically
+- New startup and end screens (minor change, nothing major)
+- Old title music restored
+- Reads unique savegame and configuration files
+- Original Spear of Destiny par times restored
+- Old Spear of Destiny and Wolfenstein music included. I know, it is the same
+  as the stuff in the Original and Nocturnal Missions, but it is all I could
+  find
+- 320x200 end screen replaces tiled flat and overlaid text
+- Secret exits restructured to match the original game
+- No doubt a couple other things I forgot :)
+
+Known Problems
+--------------
+James Haley of Team Eternity has told me that for some reason the new 320x200
+intermissions cause the game to crash under Windows 98, and Laz says that it
+crashes his machine too (a Mac running Virtual PC). It runs fine for me (I use
+Windows 95) and I have not heard any other complaints, so I am assuming the
+problem is unique to those systems.
+
+The function in question calls upon an everyday Doom routine that is used
+every other time a 320x200 graphic is drawn in Doom. So why it would happen
+just this time is completely beyond me. If I ever figure out why it is, I
+will update the EXE once more.
+
+This game is, as it was from the start, single-player only. Several people
+have mailed me asking how to play it in multi-player mode, but the fact is it
+can not be done. Laz did not put the start points in, and we do not have any
+player graphics. Hopefully, I will fix this problem with Wolfenstein: The
+Resurrection.
+
+As always, questions, comments and bug reports are welcome at Joel@ts.co.nz
+
+Enjoy!
+Joel D. Murdoch
