@@ -4,4 +4,5 @@ simpsons_doom=Ultimate Simpsons Doom
 aliens_tc=Aliens TC
 wolfendoom=WolfenDOOM
 aoddoom2=Army of Darkness Doom II
-wolfendoom_sod=WolfenDOOM -  Spear Of Destiny
+wolfendoom_sod=WolfenDOOM: Spear Of Destiny
+perdition=Perdition's Gate
