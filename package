@@ -26,9 +26,9 @@ Section: emus
 Priority: optional
 Maintainer: scooterpsu
 Architecture: mipsel
-Homepage: 
+Homepage: https://github.com/scooterpsu/chocolate-doom-modlauncher
 Depends:
-Source: ' > control
+Source: https://github.com/scooterpsu/chocolate-doom-modlauncher' > control
 
 print '2.0' > debian-binary
 
