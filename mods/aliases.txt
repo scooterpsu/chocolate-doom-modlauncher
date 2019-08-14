@@ -1,0 +1,6 @@
+batman_doom=Batman Doom
+doom_64=Doom 64
+simpsons_doom=Ultimate Simpsons Doom
+aliens_tc=Aliens TC
+wolfendoom=WolfenDOOM
+aoddoom2=Army of Darkness Doom

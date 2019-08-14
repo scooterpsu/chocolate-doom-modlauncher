@@ -1,0 +1,50 @@
+#!/bin/sh
+
+mkdir -p ipkg/home/retrofw/games/chocolate-doom
+mkdir -p ipkg/home/retrofw/apps/gmenu2x/sections/games
+cp ./chocolate-doom-modlaunch ipkg/home/retrofw/games/chocolate-doom/chocolate-doom-modlaunch
+cp ./chocolate-doom-modlaunch.png ipkg/home/retrofw/games/chocolate-doom/chocolate-doom-modlaunch.png
+cp -R ./mods ipkg/home/retrofw/games/chocolate-doom/
+
+cd ipkg
+
+# https://unix.stackexchange.com/questions/219268/how-to-add-new-lines-when-using-echo
+print()
+	case    ${IFS- } in
+	(\ *)   printf  %b\\n "$*";;
+	(*)     IFS=\ $IFS
+	printf  %b\\n "$*"
+	IFS=${IFS#?}
+esac
+
+# Create GmenuNx entry file plus other things
+
+print 'Package: Doom Mods
+Version: 1
+Description: Chocolate-Doom mod launcher
+Section: emus
+Priority: optional
+Maintainer: scooterpsu
+Architecture: mipsel
+Homepage: 
+Depends:
+Source: ' > control
+
+print '2.0' > debian-binary
+
+print 'title=Doom Mods
+description=Chocolate-Doom mod launcher
+exec=/home/retrofw/games/chocolate-doom/chocolate-doom-modlaunch
+clock=600
+selectordir=/home/retrofw/games/chocolate-doom/mods
+selectorbrowser=false
+selectorfilter=.doom
+selectorscreens=/home/retrofw/games/chocolate-doom/mods
+selectoraliases=/home/retrofw/games/chocolate-doom/mods/aliases.txt' > home/retrofw/apps/gmenu2x/sections/games/chocolate-doom-modlaunch
+
+tar -czvf control.tar.gz control --owner=0 --group=0
+tar -czvf data.tar.gz home --owner=0 --group=0
+ar rv ../chocolate-doom-modlaunch.ipk control.tar.gz data.tar.gz debian-binary
+
+cd ..
+rm -r ipkg
