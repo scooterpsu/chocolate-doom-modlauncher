@@ -1,6 +1,7 @@
 batman_doom=Batman Doom
-doom_64=Doom 64
+doom_64=Doom 64 for Doom II
 simpsons_doom=Ultimate Simpsons Doom
 aliens_tc=Aliens TC
 wolfendoom=WolfenDOOM
-aoddoom2=Army of Darkness Doom
+aoddoom2=Army of Darkness Doom II
+wolfendoom_sod=WolfenDOOM -  Spear Of Destiny
