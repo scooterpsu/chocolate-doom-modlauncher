@@ -1,0 +1,523 @@
+Patch File for DeHackEd v3.0
+
+# Note: Use the pound sign ('#') to start comment lines.
+
+Doom version = 19
+Patch format = 6
+
+
+Thing 2 (Trooper)
+Initial frame = 321
+Hit points = 300
+First moving frame = 339
+Alert sound = 105
+Attack sound = 0
+Injury frame = 343
+Pain chance = 100
+Pain sound = 0
+Close attack frame = 339
+Far attack frame = 339
+Death frame = 345
+Exploding frame = 0
+Death sound = 0
+Speed = 10
+Mass = 500
+Action sound = 0
+Bits = 26
+Respawn frame = 0
+
+Thing 3 (Sargeant)
+Hit points = 100
+Attack sound = 91
+Pain chance = 100
+Pain sound = 0
+Width = 1048576
+Mass = 500
+Missile damage = 3
+Action sound = 0
+
+Thing 7 (Revenant Fireball)
+Alert sound = 0
+Death sound = 0
+Speed = 2621440
+Width = 655360
+Missile damage = 6
+
+Thing 22 (Cyberdemon)
+Alert sound = 0
+
+Thing 83 (Tall Gr. Pillar)
+Initial frame = 442
+Hit points = 60
+First moving frame = 457
+Injury frame = 455
+Pain chance = 200
+Close attack frame = 457
+Far attack frame = 457
+Death frame = 457
+Exploding frame = 462
+Death sound = 80
+Speed = 8
+Width = 1310720
+Height = 3670016
+Bits = 26
+
+Thing 84 (Short Gr. Pillar)
+Initial frame = 442
+Hit points = 60
+First moving frame = 457
+Injury frame = 455
+Pain chance = 200
+Close attack frame = 457
+Far attack frame = 457
+Death frame = 457
+Exploding frame = 462
+Death sound = 97
+Speed = 8
+Width = 1310720
+Height = 3670016
+Bits = 26
+
+Thing 85 (Tall Red Pillar)
+Hit points = 60
+Pain chance = 200
+Speed = 8
+Width = 1310720
+Height = 3670016
+
+Thing 86 (Short Red Pillar)
+Initial frame = 442
+Hit points = 60
+First moving frame = 457
+Injury frame = 455
+Pain chance = 200
+Close attack frame = 457
+Far attack frame = 457
+Death frame = 457
+Exploding frame = 462
+Death sound = 97
+Speed = 8
+Width = 1310720
+Height = 3670016
+Bits = 26
+
+Thing 87 (Pillar w/Skull)
+Initial frame = 442
+Hit points = 60
+First moving frame = 457
+Injury frame = 455
+Pain chance = 200
+Close attack frame = 457
+Far attack frame = 457
+Death frame = 457
+Exploding frame = 462
+Death sound = 28
+Speed = 8
+Width = 1310720
+Height = 3670016
+Bits = 26
+
+Thing 88 (Pillar w/Heart)
+Initial frame = 442
+Hit points = 60
+First moving frame = 457
+Injury frame = 455
+Pain chance = 200
+Close attack frame = 457
+Far attack frame = 457
+Death frame = 457
+Exploding frame = 462
+Death sound = 103
+Speed = 8
+Width = 1310720
+Height = 3670016
+Bits = 26
+
+Thing 102 (Swaying Body)
+Initial frame = 442
+Hit points = 60
+First moving frame = 457
+Injury frame = 455
+Pain chance = 200
+Close attack frame = 457
+Far attack frame = 457
+Death frame = 457
+Exploding frame = 462
+Death sound = 74
+Speed = 8
+Width = 1310720
+Height = 3670016
+Bits = 26
+
+Thing 103 (Hanging Arms Out)
+Initial frame = 442
+Hit points = 60
+First moving frame = 457
+Injury frame = 455
+Pain chance = 200
+Close attack frame = 457
+Far attack frame = 457
+Death frame = 457
+Exploding frame = 462
+Death sound = 100
+Speed = 8
+Width = 1310720
+Height = 3670016
+Bits = 26
+
+Thing 104 (One-legged Body)
+Initial frame = 442
+Hit points = 60
+First moving frame = 457
+Injury frame = 455
+Pain chance = 200
+Close attack frame = 457
+Far attack frame = 457
+Death frame = 457
+Exploding frame = 462
+Death sound = 73
+Speed = 8
+Width = 1310720
+Height = 3670016
+Bits = 26
+
+Thing 105 (Hanging Torso)
+Initial frame = 442
+Hit points = 60
+First moving frame = 457
+Injury frame = 455
+Pain chance = 200
+Close attack frame = 457
+Far attack frame = 457
+Death frame = 457
+Exploding frame = 462
+Death sound = 70
+Speed = 8
+Width = 1310720
+Height = 3670016
+Bits = 26
+
+Thing 106 (Hanging Leg)
+Initial frame = 442
+Hit points = 60
+First moving frame = 457
+Injury frame = 455
+Pain chance = 200
+Close attack frame = 457
+Far attack frame = 457
+Death frame = 457
+Exploding frame = 462
+Death sound = 72
+Speed = 8
+Width = 1310720
+Height = 3670016
+Bits = 26
+
+Thing 107 (Hanging Arms Out2)
+Initial frame = 442
+Hit points = 60
+First moving frame = 457
+Injury frame = 455
+Pain chance = 200
+Close attack frame = 457
+Far attack frame = 457
+Death frame = 457
+Exploding frame = 462
+Death sound = 71
+Speed = 8
+Height = 3670016
+Bits = 26
+
+Thing 108 (Hanging Torso 2)
+Initial frame = 442
+Hit points = 60
+First moving frame = 457
+Injury frame = 455
+Pain chance = 200
+Close attack frame = 457
+Far attack frame = 457
+Death frame = 457
+Exploding frame = 462
+Death sound = 102
+Speed = 8
+Height = 3670016
+Bits = 26
+
+Thing 109 (One-legged Body 2)
+Initial frame = 442
+Hit points = 60
+First moving frame = 457
+Injury frame = 455
+Pain chance = 200
+Close attack frame = 457
+Far attack frame = 457
+Death frame = 457
+Exploding frame = 462
+Death sound = 104
+Speed = 8
+Height = 3670016
+Bits = 26
+
+Thing 110 (Hanging Leg 2)
+Initial frame = 442
+Hit points = 60
+First moving frame = 457
+Injury frame = 455
+Pain chance = 200
+Close attack frame = 457
+Far attack frame = 457
+Death frame = 457
+Exploding frame = 462
+Death sound = 99
+Speed = 8
+Height = 3670016
+Bits = 26
+
+Thing 111 (Swaying Body 2)
+Initial frame = 838
+Height = 1048576
+Bits = 1
+
+Frame 21
+Duration = 4
+
+Frame 22
+Duration = 4
+
+Frame 23
+Duration = 4
+
+Frame 24
+Duration = 3
+
+Frame 25
+Duration = 3
+
+Frame 26
+Duration = 3
+
+Frame 27
+Duration = 3
+
+Frame 29
+Duration = 3
+
+Frame 342
+Next frame = 345
+
+Frame 344
+Next frame = 345
+
+Frame 897
+Sprite subnumber = 0
+
+Frame 898
+Sprite subnumber = 1
+
+Weapon 1 (Pistol)
+Ammo type = 5
+Deselect frame = 4
+Select frame = 3
+Bobbing frame = 2
+Shooting frame = 5
+Firing frame = 0
+
+Cheat 0
+Change music = music
+Chainsaw = evildead1
+God mode = bruce
+Ammo & Keys = raimi
+Ammo = samÿ
+No Clipping 1 = ihatewalls
+No Clipping 2 = nowall
+Invincibility = nameisash
+Berserk = swivelarm
+Invisibility = wheresash
+Radiation Suit = powerboot
+Auto-map = givescrol
+Lite-Amp Goggles = torchÿÿÿÿ
+BEHOLD menu = gimmethe
+Level Warp = potion
+Player Position = whereÿÿ
+Map cheat = blow
+
+Text 492 495
+The loathsome spiderdemon that
+masterminded the invasion of the moon
+bases and caused so much death has had
+its ass kicked for all time.
+
+A hidden doorway opens and you enter.
+You've proven too tough for Hell to
+contain, and now Hell at last plays
+fair -- for you emerge from the door
+to see the green fields of Earth!
+Home at last.
+
+You wonder what's been happening on
+Earth while you were battling evil
+unleashed. It's good that no Hell-
+spawn could have come through that
+door with you ...Sure I could've stayed in the past.
+Could've even been king. But in my own
+way I am king. Hail to the king baby!
+                     
+Wait a minute. Hold it. Where's the
+original futuristic holocaust ending?
+                     
+Sigh. The Wisemen were fools to trust
+in you finding it. Maybe thou art not
+the Promised One afterall...
+
+But, as we are men of our word we shall
+honour our ... bargain and shall return
+you to your own time.
+       
+Remember. Shop smart, shop S-mart.
+Ya got that?!
+
+Text 405 407
+YOU HAVE ENTERED DEEPLY INTO THE INFESTED
+STARPORT. BUT SOMETHING IS WRONG. THE
+MONSTERS HAVE BROUGHT THEIR OWN REALITY
+WITH THEM, AND THE STARPORT'S TECHNOLOGY
+IS BEING SUBVERTED BY THEIR PRESENCE.
+
+AHEAD, YOU SEE AN OUTPOST OF HELL, A
+FORTIFIED ZONE. IF YOU CAN GET PAST IT,
+YOU CAN PENETRATE INTO THE HAUNTED HEART
+OF THE STARBASE AND FIND THE CONTROLLING
+SWITCH WHICH HOLDS EARTH'S POPULATION
+HOSTAGE.Alright you primitive screwheads, listen up!
+See this? This is a warning screen!
+Not exactly S-mart's top-of-the-line
+but it'll have to do. Now let's talk.
+
+You know how bad I want to get back to
+my own time. That's why I got them that
+damn book.
+
+While you all can see the happy ending
+coming, Sam didn't intend it that way...
+
+So from now on, keep an extra eye open
+for that bootleg, ergh, secret exit...
+
+
+Text 7 7
+SLIME16rrock03
+
+Text 78 76
+                          DOOM System Startup v%i.%i                                                   Army of Darkness Doom v1.0                         
+
+Text 80 80
+                         DOOM 2: Hell on Earth v%i.%i                                                    Army of Darkness Doom ][ v1.0                          
+
+Text 71 68
+are you sure? this skill level
+isn't even remotely fair.
+
+press y or n.Yeah, and maybe I'm a Chinese jet pilot.
+           (y/n)           
+
+Text 45 44
+You need a yellow key to activate this objectGo find the Necronomicon first!             
+
+Text 39 36
+You need a yellow key to open this doorGo find the Necronomicon first!     
+
+Text 25 25
+Picked up a blue keycard.Found Linda's necklace...
+
+Text 27 26
+Picked up a yellow keycard.Is this the Necronomicon ?
+
+Text 24 26
+Picked up a red keycard.Found the missing pages...
+
+Text 29 28
+Picked up a yellow skull key.Got the Necronomicon !      
+
+Text 19 19
+Picked up a rocket.Picked up an arrow.
+
+Text 27 27
+Picked up a box of rockets.Picked up a bag of arrows. 
+
+Text 25 25
+Picked up an energy cell.Picked up some gunpowder.
+
+Text 30 29
+Picked up an energy cell pack.Picked up a lot of gunpowder.
+
+Text 30 28
+You got the BFG9000!  Oh, yes.You got the catapult!       
+
+Text 21 23
+You got the chaingun!You got the Winchester.
+
+Text 28 28
+You got the rocket launcher!You got the crossbow.       
+
+Text 23 20
+You got the plasma gun!You got the torch!  
+
+Text 15 12
+E3M1: Hell KeepEvil Dead   
+
+Text 23 20
+E3M2: Slough of DespairArthur's Castle     
+
+Text 17 16
+E3M3: PandemoniumThe Pit         
+
+Text 19 19
+E3M4: House of PainGood Ash vs Bad Ash
+
+Text 22 22
+E3M5: Unholy CathedralNecronomicon Ex Mortis
+
+Text 16 16
+E3M6: Mt. ErebusIn the deal     
+
+Text 11 8
+E3M7: LimboLet's go
+
+Text 9 11
+E3M8: DisShop S-mart
+
+Text 13 14
+E3M9: WarrensSlept too long
+
+Text 17 16
+level 1: entrywayEvil Dead       
+
+Text 19 16
+level 2: underhallsArthur's Castle 
+
+Text 20 20
+level 3: the gantletThe Pit             
+
+Text 18 19
+level 4: the focusGood Ash vs Bad Ash
+
+Text 26 24
+level 5: the waste tunnelsNecronomicon Ex Mortis  
+
+Text 20 20
+level 6: the crusherIn the deal         
+
+Text 20 20
+level 7: dead simpleLet's go            
+
+Text 25 24
+level 8: tricks and trapsShop S-mart             
+
+Text 16 16
+level 9: the pitSlept too Long  
+
+Text 24 24
+level 10: refueling baseDM Bonus Level          
+
+Text 21 20
+level 31: wolfensteinSlept too long      

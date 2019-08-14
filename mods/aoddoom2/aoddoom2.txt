@@ -1,0 +1,73 @@
+==============================================================================
+Title                   : Army of Darkness DOOM 2 Total Conversion
+Filename                : aoddoom2.wad
+Authors                 : Stefan Maes		maes@uia.ua.ac.be
+			  Jeff Allen		jaallen@mindspring.com
+			  Steve Conway		stevec@flash.net
+			  Andrew Stine		aoddoom@andrewstine.org
+			  Shonen Angell		shonen@dircon.co.uk
+			  Lawton Roberts	doublbrrl@aol.com
+			  Scott Powers		powers@flash.net
+Email Address           : aoddoom@andrewstine.org
+Misc. Author Info       : Just a bunch of Army of Darkness/Evil Dead, Bruce
+			  Campbell/Sam Raimi, DOOM fans...
+
+Description		: Always dreamed of being Ash?  Well buddy, here's your
+			  chance.  Gun down skeletons in the graveyard.  Hack 
+			  apart Deadites in the Pit.  Blow away Bad Ash at the
+			  windmill.  To put it in the words of the help screen:
+			  "Be Ash and protect the town of Arthur and make your
+			  way home to S-Mart.  Armed with a torch, shotgun,
+			  chainsaw, and Winchester, you'll have the best
+			  Doom add-on experience ever made."  'Nuff said.
+
+==============================================================================
+* What is included *
+
+New levels              : Yes
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : Yes
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : Map01 - Map10
+Single Player           : Designed for
+Cooperative 2-4 Player  : Designed for
+Deathmatch 2-4 Player   : Designed for
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : Almost everything from scratch.
+Build Time              : 9 months or so. Way too long!
+Editor(s) used          : Many
+Known Bugs              : None
+May Not Run With...     : Original doom2.exe (no provisions made for extra
+                          sprites/flats).  However, it will run with the
+                          original executable if you take the time to
+                          append the sprites and flats or other such
+                          measures.
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original 
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
+
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors

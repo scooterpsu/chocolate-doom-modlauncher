@@ -1,0 +1,1126 @@
+****************************************************************************
+************************* T H E   O F F I C I A L **************************
+****************************************************************************
+
+		   /===\\          /======\\      |======\\
+		  /  =  \\        /  ====  \\     |       \\
+		 /  //\  \\      /  //   \  \\    |  |-\   \\
+		/  //  \  \\    |  ||     |  ||   |  || \   ||
+	       |   =====   ||   |  ||     |  ||   |  || /   ||
+	       |   |===|   ||    \  \\   /  //    |  |-/   //
+	       |   ||  |   ||     \  ====  //     |       //
+	       |===||  |===||      \======//      |======//
+
+      |======\\         /======\\         /======\\      |====      ===||
+      |       \\       /  ====  \\       /  ====  \\     |   \\    /   ||
+      |  |-\   \\     /  //   \  \\     /  //   \  \\    |    \\  /    ||
+      |  || \   ||   |  ||     |  ||   |  ||     |  ||   |  \  \=/  /  ||
+      |  || /   ||   |  ||     |  ||   |  ||     |  ||   |  |\     /|  ||
+      |  |-/   //     \  \\   /  //     \  \\   /  //    |  ||\===//|  ||
+      |       //       \  ====  //       \  ====  //     |  ||      |  ||
+      |======//         \======//         \======//      |==||      |==||
+				   *******
+				   *F A Q*
+				   *******
+
+				 Version 1.0
+			    (last updated 7/9/96)
+
+			 Author: Andrew (Andy) Stine
+			 With musings by Stefan Maes
+----------------------------------------------------------------------------    
+    "Ash is basically an idiot 70 percent of the time, but when it comes 
+		     to fighting, he knows what to do."
+			       -Bruce Campbell
+----------------------------------------------------------------------------
+
+----------
+DISCLAIMER
+----------
+
+	This FAQ is to aid in informing the public about the DOOM, DOOM II, 
+and MacDOOM add-on "Army of Darkness DOOM".  In no way should this FAQ 
+promote your killing yourself, killing others, or killing in any other 
+fashion.  You see, when you blow away a monster in DOOM, it's just a bunch 
+of 1's and 0's translating to the screen in the form of a sprite that 
+happens to look like a monster that happens to look like it's dying, with a 
+noise emenating from your speakers that happens to sound like a death shreik.  
+It's not like it's real or anything.  But you're allowed to kill Deadites 
+in real life, since they're already dead.
+	Additionally, Andrew (Andy) Stine claims NO responsibility regarding 
+ANY illegal activity concerning this FAQ, or indirectly related to this FAQ.  
+The information contained in this FAQ doesn't really have anything to do with 
+id Software either, so don't be calling them up and asking why the game 
+keeps locking up.  The conversation would probably go something like this:
+
+RECORDING- Thank you for calling id Software.  All agents are busy.  Please 
+wait for the next available agent.
+YOU- (Trying to get Ash to move) Damn.  I hate recordings.
+MUZAK- Dum dee dum dee dum...
+AGENT- (18 minutes later) Thank you for calling id Software.  How may I help 
+you?
+YOU- Yeah, I have a problem with Army of Darknes-
+PHONE- *CLICK*
+	
+	They don't like that, so don't bother them about the AOD-DOOM add-on.  
+They have enough problems with Quake.
+
+----------
+TRADEMARK INFORMATION
+----------
+
+	All specific names included herein are probably trademarks, and are so 
+acknowledged: id Software, Raven Software, DOOM, DOOM II, The Evil Dead,
+The Evil Dead 2: Dead by Dawn, Army of Darkness, Dark Forces, Strife, Rise of
+the Triad, Warcraft II, Heretic, Marathon, Hexen, Duke Nukem 3D, Quake,
+Wolfenstein 3-D, System Shock, Descent, Minesweeper, Zork, Lemmings, Babe,
+Adobe Photoshop, Adobe Illustrator, Strata Studio 3D, Quadra, Macintosh,
+Mallrats, Clerks, Ford Thunderbird, Oldsmobile Delta 88, "Name Of The Rose", 
+MS-DOS, Winchester, and Remington.  Any trademarks not mentioned here are
+still hypothetically acknowledged.
+	Notice that "Army of Darkness DOOM" and "AOD-DOOM" are not 
+trademarks.  That means that, if you wanted to, you could make your own Army
+of Darkness add-on for DOOM, call it "Army of Darkness DOOM", and we could 
+do nothing about it.  Please don't do that.  We don't want our superior 
+product to be confused with crappy imitators.
+	This FAQ is not copyrighted by Andrew Stine, or anyone else, so I
+guess that means that you could copy the whole thing into a book or something.
+Don't do that either.  I'll be happy to give you the rights to use part of it.
+You can e-mail me at "andystine@aol.com".
+
+----------
+CONTENTS:
+----------
+
+=SECTION ONE= PRELIMINARY INFORMATION
+
+[1] Introduction
+[2] What makes AOD-DOOM different from regular DOOM?
+	[2-1] New Monsters
+	[2-2] New Weapons
+	[2-3] New Levels
+	[2-4] Sound Things
+[3] Who created AOD-DOOM?
+	[3-1] Jeff Allen
+	[3-2] Steve Conway
+	[3-3] Stefan Maes
+	[3-4] Andrew "Andy" Stine
+	[3-5] The men in the backgound
+
+=SECTION TWO= CHEATS AND SPOILERS
+
+[4] What are the AOD-DOOM cheat codes?
+[5] Where are all the secrets?
+[6] How powerful are the enemies?
+	[6-1] Which enemies will attack each other?
+
+=SECTION THREE= STEFAN MAES'S WORDS OF WISDOM
+
+[7] Stefan's AOD-DOOM Level History
+[8] Project History
+
+=SECTION FOUR= OTHER STUFF
+
+[9] AOD-DOOM Q and A
+[10] Closing
+
+
+======================================
+=SECTION ONE= PRELIMINARY INFORMATION=
+======================================
+
+-------------
+CHAPTER [1]: Introduction
+-------------
+
+	So, you think you know everything there is to know about the Evil Dead 
+series.  You've watched them all countless times.  You own all three on video.  
+You own all three on laserdisc.  You downloaded the scripts, printed them out, 
+and formed a new religion with the scripts as the sacred text.  You e-mail 
+Bruce Campbell every week.  You e-mail Sam Raimi every week.  You have the 
+Army of Darkness comic books.  You even have the 18-inch vinyl Ash figurine, 
+complete with miniature shotgun, chainsaw, metal glove, and Necronomicon.  
+You think you are one with the Evil Dead series.  There's nothing that has 
+escaped you.
+
+	You ain't leading but two things now, pal.  Jack and Shit.
+			  
+			    AND JACK LEFT TOWN.
+
+	Introducing Army of Darkness Doom.  The hands-down, no-contest,
+greatest add-on ever created for the game of Doom.
+	Always dreamed of being Ash?  Well buddy, here's your chance.  
+Gun down skeletons in the graveyard.  Hack apart Deadites in the Pit.  Blow 
+away Bad Ash at the windmill.  To put it in the words of the help screen - 
+"Be Ash and protect the town of Arthur and make your way home to S-Mart.  
+Armed with a torch, shotgun, chainsaw, and Winchester, you'll have the best 
+Doom add-on experience ever made."  'Nuff said.
+
+---------------------------------
+CHAPTER [2]: What makes AOD-DOOM different from regular DOOM?
+---------------------------------
+
+[2-1]: New Monsters
+===================
+
+	The Army of the Dead has many different kinds of soldiers.  Some are
+a piece of cake, others are ten times stronger than you.  Here is a listing
+of the enemies.
+
+	FOUR-LEGGED SOLDIERS (Armored centaurs) - Recently deceased, these 
+guys still have some meat on their bones.  They're weak, however; one shotgun 
+blast is usually enough to bring 'em down.  Watch out for the spiked balls 
+they throw.
+
+	SKELETONS (Skeletons) - Reanimated bones, these soldiers have been 
+dead for centuries.  Their fossilized skeletons give them more durability - 
+it takes at least two shotgun blasts to floor these buggers.  Don't let them 
+get too close, or they'll slash you apart in no time with their swords.
+
+	GHOSTS (White, flimsy-looking Caspers) - These lost souls (no pun 
+intended) float around, waiting for provocation.  Provocation is Ash's middle 
+name.  They'll zoom at you with a cry of "I'll swallow your soul!".  Try and 
+shoot them down before they do any damage.
+
+	LITTLE ASHES (Little dudes with silverware) - Found in the windmill, 
+these little guys run around with forks and try to poke you.  Smear their 
+miniature guts across the wall before they succeed in skewering you.  You'll 
+recognize them by their maniacal laugh.
+	
+	FLOATING TORSOS (Half-Deadites) - Severely mutilated soldiers,
+reanimated and endowed with the power of flight.  They fly around, throw 
+fireballs, and generally make your life miserable.  Their armor gives them 
+extraordinary protection - it can take seven or more shotgun blasts to down
+one of these.
+
+	FAKE NECRONOMICON (A flying book) - If you pick the wrong book at
+the graveyard, it comes after you.  Dodge it before it explodes in your face.
+
+	SKELETON CAPTAINS (Big-ass skeletons) - Large skeletons with larger
+axes.  Throws the axe.  Hard to kill.  Very hard to kill.  Hope not to see
+these guys very often.  If you do, think about getting some superior
+firepower.
+
+	BAD ASH (Ugly-looking guy in weird battle gear) - Leader of the 
+Deadite army.  Born from Ash's shoulder.  Don't expect to bring him down 
+with one shotgun blast, like in the movie.  This dude requires more like a 
+hundred.  He's armed with a flaming crossbow, and he knows how to use it.
+
+[2-2]: New Weapons
+==================
+
+	Ash's greatest advantage are his weapons.  Most are yours
+exclusively, but you wouldn't mind showing them off to the Deadites.
+
+	MECHANICAL FIST - Ash's replacement for his missing hand.  Although
+it's iron, it's also weak.  Don't use it unless you find yourself a berserk.
+
+	CHAINSAW - Ash's Swiss Army Knife.  It can turn anything into a pile
+of meat fairly quickly.  You start out with it, and it's all you need - for
+a while.  Don't expect some of the bigger enemies to slice apart very easily.
+It's also got unlimited gas, so go wild.
+
+	SHOTGUN - "Alright you primitive screwheads, listen up.  See this?
+This is my BOOM stick!  A twelve-guage double-barreled Remington.  S-Mart's
+top o' the line.  You'll find this in the sporting goods department.  That's
+right, this sweet baby was made in Grand Rapids, Michigan.  Retails for about
+$109.95.  It's got a walnut stock, cobalt blue steel, and a hair trigger.
+That's right.  Shop smart, shop S-Mart.  YOU GOT THAT???"
+
+	WINCHESTER REPEATER - Ash has got this thing DOWN.  Pumping out
+8 bullets per second, you can rip most anything apart with this classic.  It
+wastes ammo like nobody's business, though.
+
+	FLAMING CROSSBOW - A crossbow with a bag of gunpowder tied to the
+end of the arrow.  Makes a big explosion when it hits something.  Expect to
+see the guts fly.  Be careful, though - if it explodes too close to you,
+don't expect to live.
+
+	TORCH - Ash has slightly modified the sword-style torch.  Now it
+shoots flames, barbecuing anything it touches.  Have fun.
+
+	CATAPULT - The big-ass gun of the game, the catapult can annihilate
+any enemy in one or two shots.  Giant, explosive bags of gunpowder are hard 
+to repel.
+
+[2-3]: New Levels
+=================
+
+	One factor that combines almost every WAD on the face of this earth
+is that they all have an original level.  Sometimes more than one.  In AOD-
+DOOM's case, nine new levels.  No stupid Moon Bases or asteroids.  Not even
+any dinky little place called Hell.  Nope, AOD-DOOM goes for the big stakes.
+We've painstakingly recreated locations from the movie.  Expect, while
+playing, to say "Hey, I've seen that before."  That's what we're going for.
+Here are the nine new levels.
+
+-LEVEL 1- The Evil Dead Cabin.  Get inside, find the Necronomicon, and
+	  get out alive.
+
+-LEVEL 2- Arthur's Castle.  Kill rampaging Deadites, and get thrown in
+	  the Pit.
+
+-LEVEL 3- The Pit.  After falling in and chainsawing through Deadites, find
+	  your way out.
+
+-LEVEL 4- The Windmill.  Your quest for the Necronomicon has led you here.
+	  Smash the mirror.  Kill the Little Ashes.  Pick a fight with Bad
+	  Ash outside the windmill.
+
+-LEVEL 5- The Graveyard.  There the Necronomicon awaits.  Find the book
+	  (Three books?  Nobody said anything about three books!), and
+	  be sure and pick the right one, or suffer the consequences.
+	  Once you have the right book (Klattu, Verata, N@*%!&), get out
+	  of there before the skeletons maul you.
+
+-LEVEL 6- Arthur's Castle.  The Army of Darkness has laid seige to the
+	  castle, and overrun it.  Your job is to rid the castle of the
+	  Deadites, and get the Necronomicon back.  Don't forget to kill Bad
+	  Ash.
+
+-LEVEL 7- Finding a quiet place to quaff the potion and say the words, you
+	  stumble upon another Deadite stronghold.  Exterminate the Deadites,
+	  and return to your own time.
+
+-LEVEL 8- S-Mart.  After incorrectly saying the words (again), S-Mart is
+	  transformed into a Deadite warehouse.  Kill them all, and retire
+	  peacefully.
+
+-LEVEL 9- The Alternate Ending.  You accidentally drink seven drops instead
+	  of six, and wake up a century too late, in a postapocolyptic war
+	  zone.  Kill the Deadites here and get back where you came from.
+
+[2-4]: Sound Things
+===================
+
+	AOD-DOOM's sound things stretch the limits of DOOM's engine.  Because
+of the methods used to produce it, unfortunately, MacDOOM is void of these.
+Basically, the sound things are used in key points of the game when Ash
+finds it necessary to speak up!  When you first see the Necronomicon, Ash
+gives it a vocal introduction.  When you retreive the Necronomicon, Ash,
+of course, screws up the words for you.  Pick the wrong book, and Ash
+exclaims, "Woah.  Wrong book."  The sound things add a lot to the game's 
+environment and feel.  You'll see.
+
+----------------
+CHAPTER [3]: Who created AOD-DOOM?
+----------------
+
+[3-1]: Jeff Allen (Fave AOD Quote: "Good, bad, I'm the guy with the gun.")
+==================(E-mail: jaallen@mindspring.com)
+		 =(Homepage: http://www.mindspring.com/~jaallen)
+		 =============================================================
+	Jeff found the AOD-DOOM page from the Brucenet page on Yahoo.  He
+wrote to Stefan that he had graphics programs and experience in graphics,
+and he was welcomed aboard.  On February 7, 1996, Jeff first received e-mail
+from Stefan, giving him the OK to do whatever 'damage' he could do to the
+project.
+	Jeff was the additional graphics artist for the project.  He created
+stunning/not so stunning textures and background art as needed for the WAD.
+	He describes himself as "a freelance graphic artist, age 25, living
+in Atlanta, GA, USA.  I aspire to become a movie director/producer as Sam
+Raimi did (except not in the same genre).  I eat BAD American fast food, and
+spend WAY too much time on the computer.
+	"I use Adobe Photoshop, Adobe Illustrator, Strata Studio 3D and a
+video capture program to create the graphics/textures.  I work on a Quadra
+660 Macintosh -- the textures were the worst part of it.  The largest
+'normal' texture was only 68 pixels high - less than 1 inch!  It's an
+artist's nightmare to work that small.  Also, Doom is limited to only 256
+colors.  256 'DOOM' colors.  Lots of browns and reds.  Blues were a pain,
+because there were only a few shades of it.  Had to keep everything dark.
+Lotsa fun though.  It was great working with the crew.  Stefan was the main
+man I talked to, seeing as he did a lot of the levels I did textures for.
+	"The Web gave me (all of us actually) an opportunity to work with
+people we would never had met in our normal lives.  This was a groundbreaking
+achievement in history as far as I'm concerned.  We all came together from
+all walks of life and created a unique product that otherwise would have
+thwarted the average man and never been made.  I'd like to thank everyone
+who worked on it and everyone who put up with us all as we worked.  I'm sure
+we were not fun to be around when we were up against the ropes near the end.
+At least I know I wasn't too fun to be around, my girlfriend said so!"
+
+[3-2]: Steve Conway (Fave AOD quote: "Yeah, and maybe I'm a Chinese jet pilot.")
+====================(E-mail: stevec@flash.net)
+		   =(Homepage: http://www.flash.net/~stevec)
+		   ===========================================================
+	Steve didn't just get involved with AOD-DOOM, he started the whole
+thing.  He wanted to make a DOOM add-on based on his favorite movie, Army
+of Darkness.  So he met Stefan (through Stefan's Excalibur WAD) and asked
+him to do the levels.
+	Steve is one of the team leaders, Stefan being the other.  He stored
+the sprites, the graphics, and the sounds into the WADs.  At the beginning,
+he made a lot of graphics and changed a lot for the project.
+	"Well, I'm Steve Conway.  I like Army of Darkness, DOOM, Heretic,
+Hexen, Strife, Duke Nukem 3D, Clerks (movie) and Mallrats (also a movie.)
+I draw a lot, freehand.  I program web pages, and I also like playing games!"
+	Steve would like to thank:
+God - "we all know why"
+Mom and Dad - "for having sex soo long ago"
+Bruce Campbell - "for the autograph"
+Kevin Smith - "for leading me to become a movie director"
+
+[3-3]: Stefan Maes (Fave AOD quote: "Don't touch that please, your primitive
+====================intellect wouldn't understand things with alloys and
+		   =compositions and things with... molecular structures.")
+		   =(E-mail: maes@uia.ua.ac.be)
+		   =(Homepage: http://sch-www.uia.ac.be/u/maes)
+		   ===========================================================
+	Stefan was the first to be contacted by Steve, around the end of
+October 1995.  Steve was in need of a "level dude", and loved Stefan's
+Excalibur WAD.  Stefan had just started making a DOOM2 sequel, so he decided
+to donate the levels to AOD-DOOM.
+	Stefan built 7 of the AOD-DOOM levels, plus the final check of the
+other 2.  He created some textures/flats, some graphics such as the help
+and credit screen (text only, graphics by Jeff Allen), and some sprites, such
+as the medikit, stimpack, and invisibility powerup.  He also maintained the
+FTP site, the WWW site, and some P.R. stuff (fans wanted their E-mail
+answered).  He also made the DeHackEd patch for the cool sound things,
+made the sound WAD for the sound things, and, of course, acted like a real
+team leader when needed.
+	"I'm a 25 year old Ph.D student at the University of Antwerp (UIA).
+My research topic is crystallography.  Unlike the other team members, I'm
+not that big of a fan of the ED trilogy - hey, I don't think that NIN is
+great either; I prefer Phil Collins & the Beatles.  To me AOD is 'just'
+a great movie, just like I think that 'Babe' is a great movie.  I do,
+however, love DOOM (and other 3D-games) with A LOT of attention to detail
+(not just simple slugfests...) and the idea of doing a total DOOM conversion.
+That's why I joined the AOD-DOOM team and ended up doing more levels (and
+more work) that the 3 that I initially agreed to do.
+	"Despite the little problems and setbacks we had, I really enjoyed
+doing this total conversion.  I think that it's great that people from all
+over the world, of different ages and backgrounds, can create such a nice WAD
+when they only had digital means of communicating."
+	Stefan would like to thank id & Raven Software, Sam Raimi and Bruce
+Campbell, and the authors of the tools he used:
+
+*DEU 5.24 "with GCC and Windows compile"
+*DETH 2.63, "too bad it doesn't handle *all* my custom textures"
+*BSP 1.2x "is slow, but the only nodebuilder that could handle ALL my levels"
+*WinTex 3.41 "has a much better interface than 4.x"
+
+	"Although I'd like to think of Aliens-TC by Justin Fisher as THE
+example to follow, the original Aliens DOOM, Star Wars, Momento Mori &
+TeamTNT lads and TiC also set the high standard I love to see in all WADs.
+I can only hope that non-AOD fans would consider including our effort in
+such a great WAD list as the one above.
+	"I'd also like to thank all the other AOD team members with a special
+word for Jeff Allen.  He did a tremendous job making custom textures for me
+with just an image size and a 2 sentence description.  Without his help,
+some of my levels wouldn't have turned out quite as nice.  I'd also like to
+thank Shonen's test crew: William "Wotcha" Heath, Adrian Cockle, Emma "beige
+r' us" Perskie, Mark Hudson, and whoever Shonen forgot to tell me.
+	"Also, I'd like to thank all of the fans who sent encouraging mails
+and all sorts of suggestions.  Randy Best and Merlynn tied for longest
+E-mail conversation, while Graham Scott and Scott Kemery taught me how awful
+a tech-support job can be.
+	"And last and definitely not least,  I'm thanking YOU, for playing
+AOD-DOOM and even bothering to read this FAQ!"
+
+[3-4]: Andrew "Andy" Stine (Fave AOD quote: "Ooh, that's gotta hurt!")
+===========================(E-mail: aoddoom@andrewstine.org)
+			  =(Homepage: http://www.doomworld.com)
+			  ====================================================
+	Andrew Stine found the AOD-DOOM web page in January 1996.  After
+bugging Stefan Maes something awful, he finally let Andrew make the Pit level.
+Andrew worked long and hard on the level, using DEEP, ED-209, DEU, and DETH,
+in that order.  He also is the author of the AOD-DOOM FAQ, which you are now
+currently reading.
+	"I'm a 15-year-old sophomore, attending Grossmont High School in San
+Diego, California.  I like Army of Darkness a lot, but the other Evil Dead
+movies don't interest me too much.  I also like DOOM, which is obvious,
+considering I worked on this project.  Not DOOM 2, though.  It was a little
+too dark and satanic.  I'm also glad that AOD-DOOM replaced episode 3, because
+frankly, Mr. Romero, that episode SUCKED.
+	"I work on a 486DX2-50, 8 MB RAM, 420 meg HD.  Although it's old and
+slow, it can still play a mean game of DOOM, a pretty mean game of DUKE3D,
+and a relatively tame game of Quake.  To create the splendor that is the Pit
+level, I first started with DEEP 7.40 (I think), which I cursed and deleted
+when it informed me that I had run out of linedefs, and to please register
+it to get the full version.  I think anyone that makes a kick-ass level editor
+that is user-friendly and easy to use, and then make you pay to use it,
+deserves to be dragged out and the street and shot.
+	"Anyways, after that, I tried ED-209, a home-brewed level editor.  I'm
+always in favor of the little guys, and hoped that ED-209 wouldn't suck as
+badly as I was afraid it would.  Unfortunately, it did.  You know that a level
+editor is in trouble when the feature it touts the most is the ability to
+select more than one object at a time.  I moved on.
+	"After that, I went for DEU 5.21, which I knew from many, many
+testimonies to be a great level editor.  I tried it, and was immediately
+deterred by its complexity.  Weaned on DEEP, I was unfamiliar with sidedef
+tags and other such terms, which had been hidden from me by DEEP.  Slowly but
+surely, however, I learned the tricks of DEU, and soon was burning out the
+level at a pretty fast pace.  It still irked me, however, that I was able to
+create the southern wing in one night with DEEP, and it took me months to make
+the other three without it.
+	"I also used DETH 3.85a, a DEU knockoff that had some positive traits
+of its own.  I especially liked the texture alignment.  Unfortunately, it had
+some bugs.  Namely, it screwed up when I tried to highlight a lot of linedefs
+or sectors and change them all at once.  Also, it couldn't handle foreign
+textures -- a big problem, since AOD-DOOM has many foreign textures!  All in
+all, however, a good level editor.
+	"Besides that level (and this FAQ, of course), I didn't do much else
+for this project.  I made some suggestions on other levels, and reported bugs
+that I found.  I suggested the idea of a flaming crossbow, and also the idea
+for the secret level.  Well, I did my part, I guess.  My only regret is not
+having any graphics software or a scanner, to help with the sprites and
+textures.  Oh, well; Jeff Allen did a great job with that.
+	"That's about all I have to say, except to mention: DUKE3D and Quake
+look like they have really flexible level editors.  What I really want in a
+Deathmatch level (Quake preferred) is a highway setting, with cars burning up
+the road at 70 mph.  Stray in front of one, and get smeared across the
+pavement.  Whee.  If you like the idea and make one, be sure and contact me at
+"andystine@aol.com" with a site or whatever.
+	"Oh, yeah.  Have fun with AOD-DOOM, and be sure and send me those Pit 
+LMPs and comments!"
+
+[3-5]: The men in the background (Fave AOD Quote: "Maybe, just maybe, my boys 
+======================================can stop 'em."
+				     =(E-mails: shonen@dircon.co.uk
+				     =          powers@flash.net
+				     =          doublbrrl@aol.com)
+				     =(Homepages: http://www.dircon.co.uk
+				     =            http://www.flash.net/~powers
+				     =            None)
+				     =========================================
+	Because of these team member's apparent inability to answer an e-mail,
+Stefan Maes has taken the opportunity to describe the help given by other
+members of the AOD-DOOM team.
+
+	Stephen 'Shonen' Angell was the other European lad in the team. I hope 
+he doesn't mind me saying that. Europe isn't a very popular subject in
+political London these (and other) days... He had the privilege to play the
+levels first, but also the hard task of keeping the quality of DM and Co-op
+play at the intended high level. Given the layout of same levels, that was
+either real easy or a mountain to climb.
+
+	Scott Powers is co-founder of AOD-DOOM if you like. He and Steve got
+the first ideas together and will probably continue to work together on AOD-
+Heretic.  Originally Scott would take care of the install routines and the
+DeHackEd patch.  As time passed he turned out to be more of an idea guy than
+an .DEH patcher. But I'm sure those of you with less DOS/DOOM add-on
+experience will appreciate his install routines.
+
+	Lawton 'DoubleBrrl' Roberts is the proud owner of the title of faster
+AOD-DOOM teammember. After getting a pretty vague idea of how we wanted the
+secret level to look like, he uploaded his level only 2 days later! Add
+another day or two clean up the unused DOOM II monsters and change a couple of
+textures and you have your secret level. Small, but a lot of fun.
+
+
+=================================
+=SECTION TWO= CHEATS AND SPOILERS
+=================================
+
+----------------------
+CHAPTER [4]: What are the AOD-DOOM cheat codes?                    
+----------------------
+			       
+			       God Mode - BRUCE
+			 All weapons and keys - RAIMI
+			 All weapons, no keys - SAMR
+		       No Clipping (Doom 1) - IHATEWALLS
+			No Clipping (Doom 2) - NOWALL
+			       New music - MUSIC
+			     New level - POTION##
+			  Invincibility - NAMEISASH
+			  Invisibility - WHERESASH
+			     Berserk - SWIVELARM
+			 Radiation Suit - POWERBOOT
+			  Computer Map - GIVESCROLL
+		    Light Amplification Visors - TORCH
+			       Allmap - BLOW
+			    Coordinates - WHERE
+			 IDBEHOLD Menu - Disabled
+			   Chainsaw - EVILDEAD1
+
+-------------------
+CHAPTER [5]: Where are all the secrets?
+-------------------
+
+Level 1: Evil Dead Prologue
+
+# In the bathroom, check the N wall just inside the bathroom.  It's false.
+  Inside is a shield.
+# Go in the SE closet in the bedroom, and check the W wall.  Behind it is some
+  shotgun ammo.
+
+Level 2: Arthur's Castle
+
+# In the bedroom area to the NE of the level start, Check the N wall of the
+  room with the big bed and desk.
+# Along the wall connecting the SE with the 'basements', check the S wall
+  at the end of the first stairs down.
+# Left of the church is a building with a fireplace.  You can get inside
+  the fireplace.  Face the fire and lower a tiny elevator.  The passage is
+  narrow, but you can squeeze through.  A supercharge is waiting.
+# Try to get the yellow key.  You'll teleport to a cage.  Move forward, and
+  you will teleport again.  Kill the Deadite, and check the N wall.  Flaming
+  crossbow!
+# Don't be too eager to get that yellow key. Check that wall behind you. Now
+  THAT is a nice addition to your arms collection!
+
+Level 3: The Pit
+
++ The secrets in this level are arranged in a strange fashion - in almost
+  every case, you have to find one in order to get to the next.  Keeping this
+  in mind, it shouldn't be too hard to find all the secrets.
+# In the maze near the SE corner, you'll find a teleporter.  Unfortunately,
+  it's sealed off by bars.  In order to circumvent this little problem, you
+  first need to have finished the western wing of the level.  Once this is
+  done, the western fountain will be raised.  But that's not the only thing
+  that raised.  If you fully explored the maze, then you will have found a
+  strange pit in the NW corner.  Go back and look at it now.  Hmmm, it seems
+  to have filled!  Now you can cross the chasm, and open a door on the other
+  side.  Here you'll find yourself on the side of the pathway in the western
+  wing.  Collect power-ups!
+# Now that you're on the ledge, look at the big stalagmite near the south
+  end of the western wing.  See the switch on top?  Now you're in a good
+  position to get to it!  With a running start, leap across the 'chasm'
+  and activate the switch.  Now what could this do?  Oh yeah, remember the...
+# ...teleporter?  Go back and look at it.  The front is still sealed off by
+  bars, but the back is opened for your convenience.  Enter the teleporter, 
+  and you'll find yourself behind the other crushing wall.  Here you'll find
+  a supercharge, along with a flying torso when you exit this area.
+# But that's not all to do behind the crushing wall.  Check the walls,
+  especially to the right of the piston.  You'll find a secret door, with
+  a switch inside.  Where could this be useful?
+# If you've already explored the northern wing and gotten the scroll, you'll
+  see that in the 5X5 grid, there's one spot where a room should be that
+  there isn't.  Let me let you in on a secret: there really is a room there.
+  After pressing the switch behind the crushing wall, go back into the
+  teleport maze, and make your way to the room just north of the "invisible"
+  room.  What's with the western teleporter?  That wasn't there before!
+  And the number is on the side, instead of the back!  Let's check it out!
+  Poof!  You find yourself in the ultra-secret room.  Kill the Deadite to
+  raise your kill percentage.  Then look around you.  What's with the
+  teleporter?  Why is it such strange colors?  Like the ones found in the
+  western wing?  Check it out...
+# You rematerialize on a ledge in the western wing, in the room at the
+  bottom of the lift.  Nothing here to write home about, except for the
+  weird-looking wall over there... looks like a lift!  Check it out, and
+  you'll find another Deadite to raise your kill %.
+# In the eastern wing, check the walls leading to the first room.  You'll
+  find a secret door, with a backpack inside.  Cool, you think, and turn to
+  leave.
+# Wait!  Don't leave yet!  Check the northern wall.  You'll find a secret
+  hallway that leads to a window on the other side of the armor.  This might
+  be useful in deathmatch...
+
+Level 4: Good vs. Bad Ash
+
++ There aren't many secrets in this level, and that's on purpose.  We don't
+  want this fight to be easy!!!
+# For those Ash wanna-be's who just can't move fast enough, there's an
+  invincibility on the opposite side of the room with the exit.  I hope you
+  have a catapult when using it, though - it won't last long enough any other
+  way.
+
+Level 5: Necronomicon Ex Mortis
+
++ The only secret here is the whereabouts of the real Necronomicon. Since the
+  possibilities are limited we won't spoil the fun...
+
+Level 6: In the Deal
+
+# In one corner of the prison lies a pile of skulls and bones.  Shoot it!
+# In the prison, the NE pit has an escape.  Fall into it, and proceed into
+  the "catacombs".  How would someone find this, besides by accident, you
+  ask?  Didn't you check the upper wall texture?  Why'd you think that was
+  the only bloody one?
+# In the catacombs, the stairs are built around a small room.  Check the
+  inner wall at the section where there are lights.
+# The north wall of the torture room has a secret door.  It's pretty obvious.
+# Forget about the DOOM engine being 2d (or 2.5d if you like).  Next to the
+  spiral staircase outside is a huge door.  You *think* it's only decoration.
+  There just CAN'T be a room behind it!  Try it anyway.  Where's the grunt
+  sound you expected?  Take a walk around the courtyard - especially near
+  the exit.  Notice the open door!
+# If you've been in the throne room (by means of the blue key), then you've
+  probably seen the small room in the corner.  How do you get in there?  The
+  location of the door seems pretty obvious (check your map).  However, the
+  second door to get in there won't open!  What gives?  Go back to the
+  bathing house.  You probably noticed you can't jump off the side of the
+  stairs.  You're wrong.  Check for a strange texture change at the top.  You
+  can get to that narrow ledge.  Follow the ledge to the back of the house.
+  Don't you notice anything, a texture irregularity?  Bingo!  If you would
+  have shot those pesky Deadites out of the window and checked where they had
+  landed, you might have seen this from ground level.  Press against it.
+  Hear a door opening?  Hopefully this is the only bug left in AOD-DOOM... go
+  back and check that pesky door again.  It's opened!  And there's a catapult
+  inside!  Groovy!
++ There are three options to deal with Bad Ash.  The hard way is to battle
+  it out in the courtyard.  I hope you can find your strafe key blindfolded.
+  A catapult is a nice thing to have, if you've followed the other secrets.
+  There are plenty of explosive arrows available, though.  Although it's a 
+  little dangerous getting them...
++ If you only have explosive arrows, then it's advisable to stay inside.
+  The torture room is ideal.  The tricky part is getting Bad Ash to stay
+  near the 2 windows.  If he's close enough, he will only be able to send
+  his explosive arrows into the walls.  And boy, are you glad we made thick
+  and solid walls :)  This option is also nice when you've run out of
+  explosive arrows, but still have plenty of other ammo.
++ The third option is so simple!  But id gave us bad reflexes.  Whenever you
+  encounter an enemy of Bad Ash's... magnitude, you'll back out and rethink
+  your strategy.  That's a good thing to do in general, but this ain't no
+  ordinary game!  As soon as you've opened the gate, run forward and to the
+  left!  Just don't let him flee into the courtyard.  One smashed Bad Ash
+  coming up!  Only problem is, Ash would probably frown on such a decision.
+  Don't expect us to like any LMPs including this act of cowardice.
+
+Level 7: Let's Go
+
+# The only secret in this level is how to get the secret level.  Go through
+  the procedures to get the red key, and go through the red door.  Go over
+  the bridge, and through the door.  Turn right, and follow the path to the
+  end, where you go down a lift into a room where there are four-legged
+  soldiers that can just barely shoot out of windows at your feet.  Look
+  out the left window.  Across the path, you can see another window, with
+  flickering lights.  Shoot it!  Get back out, and look at the door that
+  opened.  Shoot the switch in there, and go back out the door to the bridge.
+  Drop into the E river, and go in the door that has newly opened.  SAVE NOW!
+  Due to a constraint in DOOM's programming, you will return to level 7 after
+  finishing the secret level.  After saving, enter the teleporter, and
+  consequently the 21st century!
+
+Level 8: Shop Smart, Shop S-Mart
+
++ Did you really expect to find any secrets here?  Ash has worked here since
+  who knows when!  Don't you imagine that he would have found any secrets
+  already?
+
+Level 9: Slept Too Long
+
+# In the starting room with the shotgun, look at the S wall.  Push the
+  section of wall right behind the potion.  You will be rewarded with a
+  Winchester.
+
+
+----------
+Chapter [6]: How many shots does it take to kill each enemy?
+----------
+
+The table pertains to "Hail to the King, Baby" Mode.
+		  __________________________________________________________
+		  I Bullet I Shell~I Flaming Arrow I Flame I Catapult Shot I  
+		  I--------+-------+---------------+-------+---------------I
+4-Legged Soldier  I   6    I   1   I       1       I   3   I       1       I
+		  I--------+-------+---------------+-------+---------------I
+Skeleton          I   14   I   2   I       1       I   7   I       1       I
+		  I--------+-------+---------------+-------+---------------I
+Ghost             I   10   I   2   I       1       I   5   I       1       I
+		  I--------+-------+---------------+-------+---------------I
+Flying Torso      I   36   I   6   I       2       I   18  I       1       I
+		  I--------+-------+---------------+-------+---------------I
+Big Skeleton      I  100   I   15  I       5       I   50  I       1       I
+		  I--------+-------+---------------+-------+---------------I
+Little Ash        I   10   I   2   I       1       I   5   I       1       I
+		  I--------+-------+---------------+-------+---------------I
+Bad Ash           I  400   I   58  I       20      I  200  I       3       I
+		  I--------+-------+---------------+-------+---------------I
+Ash*              I   10   I   2   I       2       I   5   I       1       I
+		  ----------------------------------------------------------
+*Ash at 100% health, no armor.  Armor increases his durability.
+~All buckshot hits the target.  Partially missed shots increase the number of
+shots needed.
+
+[6-1]: Which enemies will attack each other?
+============================================
+
+	Any projectile-shooting enemies will not turn on one another if hit.
+That means that a 4-Legged Soldier will not attack another 4-Legged Soldier,
+a Flying Torso won't attack another Flying Torso, Skeleton Captains won't
+attack each other, and Bad Ash, if this is possible, will not attack another
+Bad Ash.  However, different kinds of Deadites will kill each other happily.
+	Scratching and clawing attacks are hard to misdirect, but if it
+happens, than enemies will go after their own kind.  Also, ghosts will fight
+each other if they hit each other.
+
+=============================================
+=SECTION THREE= STEFAN MAES'S WORDS OF WISDOM
+=============================================
+
+---------------------
+CHAPTER [7]: Stefan's AOD-DOOM Level History
+---------------------
+		   
+Level One: Evil Dead
+	This level was supposed to be made by James Young.  I found a
+Deathmatch level which featured the famous Evil Dead cabin, and wanted to
+use that one with single player stuff added. But after A LOT of my requests
+to upload the level were ignored (visplane overflow errors seemed to be a
+major problem) I finally lost patience (and some of you may know my good will
+can last very loooong!) and did it myself. The first version showed I hadn't
+much gameplay inspiration, but listening to a couple of suggestions payed off
+big time.
+		     
+Level Two: Arthur's Castle
+	Intended as a DOOM2 sequel to my Excalibur WAD, this is by far the
+best level I have made.  It doesn't have any long, boring corridors like
+Excalibur had, I guess it made a difference.  It was remotely based on the
+abbey's layout as found in Umberto Eco's great novel, "Name Of The Rose".  
+I  didn't include the mysterious library, because that would have made the
+level too big, and at the time I hadn't the inspiration for the maze inside.
+But if mazes are your thing, head forward for...
+
+Level Three: The Pit
+	Level made by Andy Stine and edited by me.  It's a bit puzzle
+oriented and includes a rather big maze.  Don't be scared by it's size.  If
+you keep an eye on the floor, you'll find the exit without major problems.
+I hope you'll enjoy your fight in the lowering pit, becuase I had a hard time
+getting it to work (again).  Oh and in the very unlikely case of problems in
+the Western cave, DO NOT report them to me. I already have one
+Visplane_Overflow allergy.  Thank you very much.
+
+Level Four: Good vs. Bad Ash
+	This is my first attempt at a DM-level.  It 'only' features the
+famous windmill and the first Good Ash - Bad Ash fight, so good DM play
+should be possible.  In the few, 2-player DM-games I had, pumping a rocket
+into your opponent's face was the most fun to me, so I tried to make the
+level a rocket fragfest.  As a level designer, I'm very proud of the windmill
+itself.  I needed 5 animated textures to get the wings' movement to look
+right.  I owe Jeff Allen a lot for providing me with the excellent textures.
+
+Level Five: Necronomicon Ex Mortis
+	The last level to be completed.  The original design was by Steve
+Conway, but it was far too simple to my liking. So I added graves and other
+stuff until Andy reported a Visplane_Overflow error. Then I knew I had to stop
+:( .  The real challenge was getting the (timing of) the sound things right.
+The only enemies you'll see here are skeletons, my favourite deadites. 
+Needless to say, I love this level a lot...
+
+Level Six: In The Deal
+	This is the 3rd revision of my very first WAD I built, and which got
+me involved in this project.  Previously released as Excalibur, AND elected
+as an All-Time Best DOOM Level on DoomGate, this version finally looks like
+I really wanted it to.  The use of DOOM2 textures made quite a difference.
+
+Level Seven: Let's Go
+	I had a hard time getting this level done.  The 'water dungeons' and
+the outside exit area were originally 2 parts of unfinished levels of mine.
+Why didn't I finish them?  Because I only had good ideas for the constructed
+parts!  This was the only level I made without drawing it all out on paper.
+I got severely penalized for that.  At one point I dumped out about a third
+of the level.  I finally got the starting area right.  The attentive player
+will see it was heavily inspired by my favourite DOOM2 level (MAP29) and
+maybe some Hexen touches.
+
+Level Eight: Shop Smart, Shop S-Mart
+	This was one easy level to build.  It wasn't built from scratch, you
+see.  It was based on warhouse.wad by Mike Barker, one of the very first WADs
+I downloaded and gave a permanent spot in my very selective collection of good
+WADs.  Maybe I put the list on my DOOM-page somewhere, but if you take a look
+at the All-Time Best level list, you have about 40% of it.  I like the
+underground parking lot a lot.  Getting the car to look decent wasn't too
+tough.  From my scale modeling hobby, I had nice front/side/rear view pics
+of that '66 Ford Thunderbird.  You all know Ash's '73 Oldsmobile Delta 88 got
+wrecked in AOD, so he had to buy a 'new' one.  Given that I'm a Ford fan, the
+choice was easy.
+(Note from Andy: Sorry if we're writing history, Mr. Raimi, but it seems like
+the type of car Ash would like)
+
+Level Nine: Slept Too Long
+	The idea for this level was the last one we got, yet it was the level
+that got constructed in the least amount of time.  Although some buildings
+are constructed in an odd way, that is my biased opinion.  Lawton Roberts did
+a very fine job here.
+
+Closing
+	I know some of you still have plenty of ideas, good ideas I may say,
+to improve the various levels. As a wise wizard once wrote: "Do they want to
+have it done or do they want to have it done RIGHT?" I guess we/I reached a
+point where we wanted to have it DONE. If you think you can do better, go
+ahead and make the very first AOD-DOOM 3rd party add-on...
+Better yet, make AOD-Quake!  In the end we found the DOOM engine way
+too limiting.
+
+----------
+CHAPTER [8]: Project History
+----------
+
+		     The Army of Darkness DOOM History
+			       By Stefan Maes 
+
+	Back in September 1994 I released my very first WAD I ever made.  I
+called it Excalibur, and it featured a nice castle.  A couple of months later
+version 1.1 was uploaded onto the DOOM FTP-sites, and a bit later it was
+elected an all-time best WAD on DoomGate.  This, and my renewed interest in
+DOOM after my Dark Forces and Rise of the Triad sidesteps, convinced me to
+make a sequel.  I still had a couple of good ideas left after Excalibur, but
+not the lust to put them in a WAD.  Since DOOM2 had some very nice textures
+perfectly suited for medieval levels, I planned a DOOM2 mini-episode (MAP16,
+secret level, and super-secret level).  I wanted to use the congratulation
+screens to tell the story of Excalibur 2.
+	It was early October 1995 when I finally got the chance to build
+anything, when I recieved E-Mail from Steve Conway: Hello.  I have downloaded
+your WAD and enjoyed it.  I'm currently working on a DOOM WAD that has almost
+all sounds, graphic etc. changed to a specific movie.  It's called Army of
+Darkness.  I was wondering if you could help me out with the levels.  Now
+I had seen all three Evil Dead movies and liked, mostly because of the humor,
+Army of Darkness the best.  I agreed to donate an updated (using DOOM2
+textures to make it look even better) version of my castle level and the other
+two levels I had planned.  I thought I could still release Excalibur 2 later
+on, since we initially planned a (U)DOOM conversion only.  Now I'm pretty sure
+that I'll never get to that.  I have other, more important stuff to take care
+of now.  But if anyone would ask me to make DOOM2-specific versions of my
+castle levels for an all castles/medieval DOOM2 levelset, I don't think I'd
+turn the request down...
+	On Steve's request I created a web page for the project (October 18
+1996).  I should have known then that that would greatly change my commitment
+to this project.  Since we had a lot of things to take care of, and we were
+only 4 people then (Steve, me, Scott Powers and BruceAODD), we thought a web
+page would stir up more help.  (Bruce AODD was initially doing the MIDI music,
+and had some promising samples.  Unfortunately, his hard disk crashed (March 4
+1996), and everthing was lost,  including BruceAODD's interest in the long
+run.)
+	James Young was the first person to respond (December 1995).  He had
+played the Evil Dead DM level I had listed on the web page and wanted to
+improve it for our project.  His list of suggestions (not limited to the
+level) indicated that he was a real Evil Dead fan.  He recalled that in the
+movie the cabin looked more like this or like that.  Stuff I couldn't possibly
+remember.  In fact, he wanted to implement all these ideas into the ED
+Prologue level with so much attention to detail that he was soon confronted
+with the limits of the DOOM engine.  He got really frustrated, because he
+couldn't find a satisfying way around the problem.  He tried again and again,
+sometimes taking longer breaks to refresh his head, but still couldn't get it
+right.
+	When Shonen Angell joined the team (January 30 1996), he solved
+another important problem for me: multi-player testing.  Except for a small
+bit of 2-player DM at work via a simple null modem connection, I had no
+experience with one, if not the most important, feature which made DOOM such
+a great game: playing with or against your friends.  Oddly, he didn't apply
+for this job that you all would have liked to take care of: "Well, I seem to
+be feeling a sense of deja vu here.  For it was about a year ago that myself
+and some guy I knew by E-Mail only (unknown@privacy.com - but his account has
+since expired) were doing just this... He had done two levels, the first the
+cabin, the second the pit and I had done a complete sound set and some
+graphics (textures and the like).  But he disappeared and I got more involved
+with my work... Well I still have the sound set and graphics and great fun
+they were, too, but I would love to contribute to your conversion, not only
+with what I have, but with some effort of my own."Since Steve already had the
+sound WAD done at that time, there wasn't a real need for his sound skills.
+We have included his WAD as a bonus.  It's an odd sound WAD in the sense that
+it hardly uses any movie quotes.  It's still very nice, though.  Here, I would
+like to take the opportunity to thank the people who joined Shonen in his
+Wednesday evening DOOM sessions (DM and Co-op).  In no particular order, and
+with the risk of forgetting anyone, thanks should go to William "Wotcha"
+Heath, Adrian Cockle, Emma "beige r' us" Perskie, and Mark Hudson.
+	The next person to join our team was Jeff Allen.  On February 6th I
+received his help application form: "As I was surfing the net I ran across
+your page via BruceNet.  Finally a project with soul.  Actually lots of souls,
+really evil souls.  I would love to help you on your journey to find the
+Necronomicon and offer my humble services/expertise to you.  For the past 3
+years I've worked as a Graphic Artist for various Ad agencies in the Southeast
+US".  Now I ain't no (complete) fool to turn professional help down and so
+Jeff started some sort of 'graphics on demand' service for me.  At times it
+made me feel a little uncomfortable.  I could give him a description like "I
+want a 256X256 pixel picture of windmill wings.  The arms should be 64-72
+pixels wide.  Oh yeah, DOOM uses this palette.  Be sure to use only those
+colors", and he'd deliver the goodies.  I asked for a new intermission screen;
+he did a great job.  S-Mart logo, wall textures, whatever, Jeff would do/try
+it.  As far as I know, Jeff is the only one in the team who works on a
+Macintosh.  It convinced me that we should prepare a MAC version with as many
+bells and whistles as possible.  I found a nice SFX trick with DeHackEd, but
+since that nice utility doesn't have a MAC equivalent, I searched for a way
+around that problem.  I found a solution but it wasn't a really good one, so
+I left it out.  Sorry.
+	As we gently made progress, I got more and more involved with the
+project.  I had to answer fanmail (I had long, but interesting conversations
+with Merlynn, Randy Best and NMare5009), designate tasks to new team members,
+but also make more levels than intended, maintaining the web page and a FTP
+site to exchange our stuff, etc.  I always had this dream of doing a complete
+episode (although I felt that I would never have enough ideas to do it alone)
+and when I made a list of AOD places we felt should be in our WAD, we
+quickly had 6-7 level ideas.  At that time I knew we would create a full
+episode replacement.
+	Scott and Steve made a rough version of the graveyard level, but the
+4 levels that were done around this time were all by me.  I and Steve weren't
+too happy about the dungeon level though.  When Andy Stine got on board for
+the pit level: "I do have a level in mind that starts in water with a big hole
+overhead, and maybe it can lead into the dungeon.  The general idea will be
+that the pit was one of four circular rooms [rest deleted not to spoil the
+level]" (February 17 1996) and gave me the exact criticisms, I decided to
+redo a large portion of the level.  Steve wasn't thrilled by Andy's early
+test versions he sent me, but I saw potential for a nice puzzle level, which
+I happen to like.  More importantly, the exit area Andy came up with was
+perfect for connecting the castle & pit levels to the windmill level.  In the
+movie, Ash made some preparations for his quest for the Book of the Dead.
+Now THAT would be a boring level.
+	Another benefit of having a new man working on this huge project was
+that he brought in some fresh ideas.  One thing Andy felt necessary to have
+was a big, epic battle inside Arthur's castle, defending the Necronomicon
+during an all or nothing battle against the Army of Darkness.  As a result,
+2 levels switched order in the planned level sequence.  Also, we got to think
+about the new monster sprites again.  We had nice ghosts and flying deadites
+and stuff, but we were missing one important character: the skeleton Deadite.
+Andy almost got a "skeletonophobia", but luckily Dave Langeliers showed up
+and was willing to try and make skeleton sprites for us.  (March 18 1996)
+	Still, Andy wasn't short of ideas.  We hadn't anything planned for
+the secret level.  We had 8 levels planned now, in which one, the troublesome
+dungeon, didn't really fit the storyline.  I believe Shonen mentioned
+different movie endings to me before, but I never really thought about the
+idea of turning it into a secret level.  Andy thought of it, and so we did
+it.  Actually, Lawton Roberts did it.  He is by far the fastest level builder
+in the team.  I work slow, because DEU/DETH isn't the fastest level editor
+around.  But it gives me total control, and I like that a lot.  Also, I want
+my rooms to look near perfect before moving on the next.  Anyways, less than
+two weeks after I sent him my ideas about how the level should more or less
+look like, Lawton said, "Here it is" (April 24 1996).  Although he had applied
+for a level editing job, stating he could make "killer levels", I was
+impressed by his work.  No very complex buildings at which you stare in
+amazement about the amount of detail put in, but still a small, very enjoyable
+level which perfectly matched my ideas.  Groovy.
+	Meanwhile, Steve didn't sit completely still.  He agreed with
+McGarnicle to do the Bad Ash sprites (March 10 1996), and later with Suture to
+do the MIDI music in place of BruceAODD (April 17 1996).  But then the problems
+really started!  McGarnicle had a hard disk crash (May 10 1996) (sounds
+familiar BruceAODD?), losing everything but one single, unfinished frame!  We
+had Ray Cole take over his job within 2 days time, but even after several
+reminder mails I never heard back from him.  Dave wasn't very responsive in
+those days either, and to top all of that, I lost it with James.  While I
+could manage James' level job, I couldn't possible handle a sprite job.  And
+then Jeff Allen turned up to be the saving angel!  He wanted to do sprites! 
+No kidding!  (June 15 1996)  Following my suggestions he started working on
+the skeleton captain.  He modeled him in 3D and the result is quite nice.
+After that, I asked him to do the skeleton trooper sprites too.  I feared Dave
+wouldn't produce anything for the project as I saw on his web page that he was
+working on a Quake level editor. A couple of days after Jeff finished the
+skeleton captain  (July 2 1996) Dave wrote all of us an apology mail (July 5
+1996).  He had had all sorts of troubles with school, would be leaving for...
+etc. etc. , but now I have a hard time believing any/all of his excuses.
+Guess what I saw 2 days after that on AfterShock: New Quake .MAP by ... right!
+To quote Jeff, "What kind of people are they to promise things and then...
+Tsk, Tsk."
+	Shortly after James and Dave, I also kicked Ray out of the team. 
+Exams can be a killer at the U (I know from experience), but they don't
+continue until July.  Not in Belgium, so why should it in the US? Well,
+there's this saying about 3 times and it seems that Jeff, yes him again,
+likes it very much. Because when I was trying to hint a possible bad Ash
+request (maybe I wasn't as subtle as I thought or... wanted?) he was
+already working on a 3D model!  So, if your ever in need of a skillful,
+dedicated person to set up your website or advertising campaign, he's your
+man!  Now we only needed some finishing touches here and there and Suture
+to send in his MIDI music...
+	I had been conducting a 'public' (mainly) level test (June 6 1996),
+but frankly it was a bit of a disappointment.  With a potential test base of
+a hundred people, you expect more than 4-5 people to send in comments.  Even
+if 50% is shut out because it was for DOOM (and Ultimate DOOM without the
+DeHackEd patch) that is still WAY TOO LOW...  Well, better a few good testers
+and a whole bunch of slackers...  I got quite a few bug reports (tiny ones,
+but still bugs), even more level improvement ideas (some of which are
+implemented, while others didn't make it because of a lack of time) and
+learned the thoroughness of a tech-support job.  Ultimate DOOM seems to be
+quite different from regular DOOM in a number of odd ways...  It was also
+around that time that we, well, I, fixed final release dates.  Since I
+insisted on doing a final level check-up before releasing AOD-DOOM 1.0, we had
+to get it out between July 17 (the day the Bad Ash sprites would be done) and
+August 1.  I had a long vacation planned for the whole of August and with the
+Quake 0.92 shareware out there was no way we could afford a further delay
+until September!  Whatever couldn't get done in time, would be saved for a
+possible 1.1 update. That's why the promised Suture MIDI-music didn't make it
+into AOD-DOOM 1.0.  It's a big shame, yes, but I was sick and tired of unresponded
+E-Mail and decided to make the music WAD myself (July 21 1996, Belgian's
+National Day!).  For the same reason the little Ashes, a statusbar with a
+fully animated Ash-face and the Windows95 shell aren't included either.  When
+the 2 guys who started all this don't...  Oh, well.  What do you think of the
+new web-site?  Quit a bit faster now that you have the choice of two US mirror
+sites...  Yep, you owe that one to Jeff too.  He proposed to redo the site
+(July 8 1996).  But don't forget Chris McClain for his mirror site!  One final
+word of thanks should go to Guybrush7.  He recorded a few last minute movie
+samples...
+	It's OUT!  Army of Darkness DOOM 1.0 was released on August 2.  One day
+later than initially planned, because of some (Belgian) network problems.  Say,
+what are you still doing here reading boring tails?  Go play it!
+
+
+=======================
+=SECTION 4= OTHER STUFF
+=======================
+
+----------
+Chapter [9]: AOD-DOOM Q and A
+----------
+			       AOD-DOOM Q and A
+			 With your host, Andy Stine
+
+Q: Is AOD-DOOM the best total conversion ever made, far surpassing all else
+   in quality?
+A: Yes.
+
+Q: Why in the hell does the torch shoot flames?  What does that have to do
+   with the movie?
+A: Well, what do you expect us to use for a weapon?  14th century, rapid-
+   firing projectile weapon, hmmm... "The Rock Slinger".
+
+Q: Why did you steal so many enemies from Hexen and Heretic?
+A: Hey, look, it was BORROWING, all right?
+
+Q: How in the world does Ash, in the movie, fire his Winchester 31 times and 
+   reload only once?
+A: Because HE'S ASH, is why.
+
+Q: Why is it that The Pit is such a well-made level, while the others are
+   only fit for dog food?
+A: No buttkissing, please.  I'm not giving out free towels or anything.
+
+Q: Why did you guys waste your time with this thing?
+A: 1) We have no lives
+   2) We enjoy making superior-quality products available for download so
+      that the whole world can revel in our creation
+   3) It's Army of Darkness, for chrissake!
+
+Q: How is it that Ash carries a catapult around with him, with no hindrance
+   in speed or reload time and no evidence of any catapult in a multiplayer
+   game?
+A: Well, actually, the reason for that is tha$##.(@H!!}~/<^3 NO CARRIER
+
+Q: In the movie, there's this dude that says "You can count on my steel".
+   Didn't he have the funkiest haircut you have ever seen?
+A: You haven't seen this one guy at my school.
+
+Q: Why are bullets, shotgun shells, and explosive arrows lying around all
+   over the medieval landscape?
+A: Because if they weren't, it would be a very short game for Ash.
+
+Q: Every time I run AOD-DOOM, my computer locks up.  What do you suggest?
+A: Get a new computer?
+
+Q: What games are AOD conversions available for?
+A: -------        --------      --------        --------      ------------
+   Current        Probable      Wishlist        Unlikely      Plain Stupid
+   -------        --------      --------        --------      ------------
+   AOD-DOOM      AOD-HERETIC   AOD-DUKE3D   AOD-DARK FORCES   AOD-MINESWEEPER
+   AOD-DOOM2     AOD-MARATHON  AOD-HEXEN    AOD-WOLFENSTEIN   AOD-MARIO
+   AOD-UDOOM                   AOD-QUAKE    AOD-SYSTEM SHOCK  AOD-ZORK
+   AOD-MACDOOM                              AOD-DESCENT       AOD-LEMMINGS
+   AOD-WARCRAFT II
+
+Q: Oooh!  Oooh!  I know!  How about a full three-episode conversion with
+   Evil Dead 1 as the first episode, Evil Dead 2 as the second, and Army of
+   Darkness as the third episode?
+A: Were you born stupid, or just raised that way?  Three reasons why not:
+   1) It's stupid.
+   2) Two whole episodes inside a cabin?  Even Ash couldn't justify that.
+   3) "NOW ENTERING LEVEL 5: THE BATHROOM"
+
+Q: In your opinion, what's the best part in Army of Darkness?
+A: The part where Ash gets beaten up.
+
+Q: In your opinion, what's the best part of AOD-DOOM?
+A: The flaming crossbow.  Not only was it my idea, but it's so cool!  Blow
+   stuff up!  Have fun!  Wheee!
+
+Q: How come levels 2 and 6 are both supposed to be the same castle, yet they
+   look completely different?
+A: Look, man, Arthur just has a very large castle.
+
+Q: Are all men from the future loud mouthed braggarts?
+A: Nope.  Just me, baby.  Just me.
+
+-----------
+Chapter [10]: Closing
+-----------
+
+	Phew!  Well, that's all I have!  I hope that this FAQ has provided a
+good source for AOD-DOOM information.  If you have any suggestions, additions, 
+or comments, send me e-mail at "aoddoom@andrewstine.org".  Now I'll just sit
+back and watch as the adoring fanmail pours in...
