@@ -1,0 +1,31 @@
+Patch File for DeHackEd v3.0
+
+Doom version = 21
+Patch format = 6
+
+# This is a small fix for Batman Doom.  Under most source ports it runs
+# fine (this patch is not needed).  However, when playing under DOS with
+# Vanilla Doom  there is a problem caused by a limitation in DOS dehacked.
+# batman.deh edits Frame 966, which is the last frame in the Doom frame
+# table.  However, dehacked internally allocates an array which has one
+# element less than Doom itself.  Therefore, editing Frame 966 overflows
+# dehacked's internal array.  The data instead overwrites the weaponinfo
+# array.  
+#
+# The end result of all of this is that if you play under Vanilla
+# Doom patched using DOS dehacked, if you switch weapons to the fist you
+# are unable to switch away again, because the weapons table has been
+# corrupted.
+#
+# Apply this patch after applying the man batman.deh patch, it will fix
+# up the weapons table back to how it should be and allow you to switch
+# weapons again.
+#
+# Thanks to grazza for pointing this out (he reported that Chocolate
+# Doom does not emulate this behavior; it does now :-)
+#
+# Simon Howard <fraggle@users.sourceforge.net>
+
+Weapon 0
+Select frame = 3
+

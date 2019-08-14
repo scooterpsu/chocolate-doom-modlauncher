@@ -1,0 +1,17 @@
+Patch File for DeHackEd v3.0
+
+Doom version = 21
+Patch format = 6
+
+# The Mac version also had lower damage to compensate for the increased number of flames
+Thing 19 (LOST SOUL-ZEKE SHOT)
+Missile damage = 1
+
+Frame 718
+Sprite number = 110
+Sprite subnumber = 32768
+Duration = 2
+Next frame = 203
+
+Frame 907
+Next frame = 718
