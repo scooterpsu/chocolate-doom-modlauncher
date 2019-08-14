@@ -1,0 +1,1 @@
+-iwad Doom2.wad -deh mods/aliens_tc/atcud19.deh -merge mods/aliens_tc/alitcsf.wad -file mods/aliens_tc/alitcsnd.wad mods/aliens_tc/alitcwad.wad

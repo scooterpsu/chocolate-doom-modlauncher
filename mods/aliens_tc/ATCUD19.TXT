@@ -1,0 +1,26 @@
+AL|ENS-TOTAL CONVERSION for Ultimate DOOM v1.9
+==============================================
+
+This is an update of the ATC program for DOOM v1.9, updated for use with
+Ultimate DOOM v1.9.
+
+I did not create the ATC module itself, merely modified it for use with
+Ultimate DOOM.  Give credit to Justin Fisher, he's the one who did all the
+work.  :)
+
+NOTE:  The ATCUD19.ZIP archive contains the DEHACKED.EXE (DeHackEd v3.0a) and 
+a custom DEHACKED.INI file for use by the ATC install program.  If you keep
+these files in the same place your DOOM files are, be sure to back them up!
+
+To install:  Unzip the ATCUD19.ZIP file in your DOOM directory, then run the
+INSTALL.BAT batch file.
+
+Afterwards, you may run the DELINST.BAT batch file to remove all files left
+over from the installation procedure.  This is optional.
+
+Any questions about this install program, please contact me at:
+xeno@ovnet.com
+
+Any questions about ATC, please don't contact me, contact Justin Fisher.
+
+-Enjoy-
